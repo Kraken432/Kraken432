@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-Kraken432-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Kraken432&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Kraken432?style=for-the-badge&color=4c1d95&label=FOLLOWERS" />
 </p>
 
 ---
@@ -231,6 +232,22 @@ Implements a weighted scoring model that penalises dictionary-adjacent patterns 
 
 ---
 
+## ◈ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏛️ **bi0s CTF Community Member** | Active participant in CTF competitions and security research workshops at Amrita Vishwa Vidyapeetham, Kochi |
+| 🎓 **CGPA 8.14 / 10** | Consistent academic performance across BCA Honours (Computer Science), Batch 2024–2028 |
+| 🔐 **Home Lab — Root on 3 CVEs** | Achieved root shell access across vsftpd, UnrealIRCd, and Samba on isolated multi-VM lab environment |
+| ☁️ **Vercel Production Deployment** | Shipped a Claude API-powered stock risk report generator to production with serverless CORS proxy |
+| 📱 **Android App — Shipped** | Built and resolved adaptive icon conflicts on a native Kotlin attendance calculator app |
+
+</div>
+
+---
+
 ## ◈ Certifications
 
 <p align="center">
@@ -250,6 +267,14 @@ Implements a weighted scoring model that penalises dictionary-adjacent patterns 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken432&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" width="40%" />
+</p>
+
+---
+
+## ◈ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kraken432&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
