@@ -232,10 +232,6 @@ Implements a weighted scoring model that penalises dictionary-adjacent patterns 
 
 ---
 
-## ◈ Achievements
-
-<div align="center">
-
 | Recognition | Details |
 |---|---|
 | 🏛️ **bi0s CTF Community Member** | Active participant in CTF competitions and security research workshops at Amrita Vishwa Vidyapeetham, Kochi |
