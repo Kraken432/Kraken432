@@ -271,14 +271,6 @@ Implements a weighted scoring model that penalises dictionary-adjacent patterns 
 
 ---
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kraken432&theme=onestar&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
