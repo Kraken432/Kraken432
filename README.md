@@ -308,20 +308,7 @@ Documentation
 
 <div align="center">
 
-## ◈ GitHub Analytics
 
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kraken432&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kraken432&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken432&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" width="42%" />
-</p>
-
----
 
 <div align="center">
 
