@@ -188,20 +188,7 @@ Documentation
 
 </details>
 
-<details>
-<summary><b>📊 AI Stock Risk Report Generator — Web App</b></summary>
-<br/>
 
-> Dark-themed web app that generates structured stock risk reports using an AI backend and clean frontend rendering.
-
-| Area | Details |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript · Serverless API |
-| **Focus** | Risk summary · Structured output · Report generation |
-| **Output** | Clean formatted reports rendered in the browser |
-| **Learning Value** | API integration, UI design, JSON parsing, and deployment workflow |
-
-</details>
 
 <details>
 <summary><b>🔑 Password Strength Analyser — Python Security Utility</b></summary>
