@@ -336,34 +336,6 @@ Documentation
 
 <div align="center">
 
-## ◈ Currently
-
-</div>
-
-```yaml
-learning:
-  - Local AI systems and Ollama workflows
-  - RAG pipelines and knowledge indexing
-  - Metasploit post-exploitation basics
-  - SIEM alerting and log analysis
-  - Python automation for security workflows
-  - Kotlin and Android app development
-
-building:
-  - KAELDRIX offline AI desktop assistant
-  - Cybersecurity lab documentation
-  - Security-focused Python utilities
-  - Android utility apps
-  - AI/ML and data analysis mini-projects
-
-exploring:
-  - CTF challenges
-  - Web security labs
-  - Defensive monitoring workflows
-  - Practical AI-assisted development
-```
-
----
 
 <p align="center">
   <em>"Build. Break. Learn. Secure. Repeat."</em>
